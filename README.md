@@ -3,7 +3,7 @@
 [![Account: Twitter](https://img.shields.io/badge/Ahmed%20Helmy-Twitter-0084b4)](https://x.com/ah_helmy22?s=21)
 [![Account: Instagram](https://img.shields.io/badge/Ahmed%20Helmy-Instagram-966842)](https://www.instagram.com/ahmedhelm_y/)
 [![Account: GitHub](https://img.shields.io/badge/Ahmed%20Helmy-GitHub-2b3137)](https://github.com/ahmedhelmy272)
-[![Account: Resume](https://img.shields.io/badge/Download-CV-6b3237)](https://https://github.com/ahmedhelmy272/ahmedhelmy272/blob/main/cv.pdf)
+[![Account: Resume](https://img.shields.io/badge/Download-CV-6b3237)](https://github.com/ahmedhelmy272/ahmedhelmy272/blob/main/cv.pdf)
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=3000&pause=503&center=true&vCenter=true&width=1000&lines=Hello+Everyone;My+name+is+Ahmed+Helmy+.;I+am+a+Frontend+Developer+.;and+my+interests+include+ web development." alt="Typing SVG" /></a>
   <div align="center">
