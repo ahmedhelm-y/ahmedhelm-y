@@ -1,3 +1,8 @@
+<!--🐱CAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
+  
 [![Account: LinkedIn](https://img.shields.io/badge/Ahmed%20Helmy-LinkedIn-0077b5)](https://www.linkedin.com/in/ahmed-helmy-57453b248/)
 [![Account: Facebook](https://img.shields.io/badge/Ahmed%20Helmy-Facebook-3B5998)](https://www.facebook.com/profile.php?id=100056881707164&mibextid=LQQJ4d)
 [![Account: Twitter](https://img.shields.io/badge/Ahmed%20Helmy-Twitter-0084b4)](https://x.com/ah_helmy22?s=21)
