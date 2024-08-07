@@ -1,20 +1,20 @@
-[![Account: LinkedIn](https://img.shields.io/badge/Ahmed%20Helmy-LinkedIn-0077b5)](https://www.linkedin.com/in/ahmed-helmy-57453b248/)
+[![Account: LinkedIn](https://img.shields.io/badge/Ahmed%20Helmy-LinkedIn-0077b5)](https://www.linkedin.com/in/ahmedhelm-y/)
 [![Account: Facebook](https://img.shields.io/badge/Ahmed%20Helmy-Facebook-3B5998)](https://www.facebook.com/profile.php?id=100056881707164&mibextid=LQQJ4d)
 [![Account: Twitter](https://img.shields.io/badge/Ahmed%20Helmy-Twitter-0084b4)](https://x.com/ah_helmy22?s=21)
 [![Account: Instagram](https://img.shields.io/badge/Ahmed%20Helmy-Instagram-966842)](https://www.instagram.com/ahmedhelm_y/)
-[![Account: GitHub](https://img.shields.io/badge/Ahmed%20Helmy-GitHub-2b3137)](https://github.com/ahmedhelmy272)
-[![Account: Resume](https://img.shields.io/badge/Download-CV-6b3237)](https://github.com/ahmedhelmy272/ahmedhelmy272/blob/main/cv.pdf)
+[![Account: GitHub](https://img.shields.io/badge/Ahmed%20Helmy-GitHub-2b3137)](https://github.com/ahmedhelm-y)
+[![Account: Resume](https://img.shields.io/badge/Download-CV-6b3237)](https://github.com/ahmedhelm-y/ahmedhelm-y/blob/main/cv.pdf)
 <h1 align="center">Hi 👋, I'm Ahmed Helmy</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" width="25%" alt="Coding" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhelmy272&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhelmy272" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhelm-y&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhelm-y" /> </p>
 
 - 🔭 I’m currently working on **Freelancing**
 
 - 🌱 I’m currently learning **Mearn stack**
 
-- 👨‍💻 All of my projects are available at [My Github Portfolio](https://github.com/ahmedhelmy272?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Github Portfolio](https://github.com/ahmedhelm-y?tab=repositories)
 
 - 📫 How to reach me **ahmedhelmy2722@gmail.com**
 
