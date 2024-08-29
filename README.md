@@ -3,7 +3,7 @@
 [![Account: Twitter](https://img.shields.io/badge/Ahmed%20Helmy-Twitter-0084b4)](https://x.com/ah_helmy22?s=21)
 [![Account: Instagram](https://img.shields.io/badge/Ahmed%20Helmy-Instagram-966842)](https://www.instagram.com/ahmedhelm_y/)
 [![Account: GitHub](https://img.shields.io/badge/Ahmed%20Helmy-GitHub-2b3137)](https://github.com/ahmedhelm-y)
-[![Account: Resume](https://img.shields.io/badge/Download-CV-6b3237)](https://github.com/ahmedhelm-y/ahmedhelm-y/blob/main/cv.pdf)
+[![Account: Resume](https://img.shields.io/badge/Download-CV-6b3237)](https://github.com/ahmedhelm-y/ahmedhelm-y/blob/main/Resume.pdf)
 <h1 align="center">Hi 👋, I'm Ahmed Helmy</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" width="25%" alt="Coding" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif"/>
